@@ -1,4 +1,4 @@
-# 📱 Smartphone Data Analysis — Code Review Project
+# Smartphone Data Analysis — Code Review Project
 
 > **Role:** Senior Data Scientist reviewing a Junior Data Scientist's code before shipping to production.
 
